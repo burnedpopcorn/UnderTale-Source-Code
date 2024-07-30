@@ -17,3 +17,7 @@ If you don't want to pay for GMS 1.4, you can use the link below for the Univers
 > I have personally tested this for GMS 1.4, and it does work
 
 https://www.youtube.com/watch?v=LY0tv5EUaBQ
+
+Direct Download:
+
+https://mega.nz/file/xOBilZiJ#hjDc_nKUG490YhwADYJGl6OLP8VfGxbZt21hUQj-_G8
