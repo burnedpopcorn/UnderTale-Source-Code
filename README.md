@@ -28,3 +28,5 @@ https://www.youtube.com/watch?v=LY0tv5EUaBQ
 Direct Download:
 
 https://mega.nz/file/xOBilZiJ#hjDc_nKUG490YhwADYJGl6OLP8VfGxbZt21hUQj-_G8
+
+Or just download an Archived Version of UGP in the Latest Release
