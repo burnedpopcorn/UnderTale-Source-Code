@@ -12,6 +12,12 @@ Download the Source Code in the Releases Tab
 - This is probably a Decompilation, and not Leaked Code
 - and this code isn't the best
 
+###
+Here is a Archive of the GMS 1.4 Installer
+https://archive.org/details/GMStudio1.4.x
+
+But there will be a GMS 1.4 Installer Archive in the Releases Tab
+
 ## ALSO
 If you don't want to pay for GMS 1.4, you can use the link below for the Universal GameMaker Patcher, that can crack GM 8.1, GMS 1.4, and gives you all export modules for FREE
 > Although I did not make this mayself, I have personally tested this for GMS 1.4, and it does work
