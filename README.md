@@ -12,8 +12,8 @@ Download the Source Code in the Releases Tab
 - This is probably a Decompilation, and not Leaked Code
 - and this code isn't the best
 
-###
-Here is a Archive of the GMS 1.4 Installer
+### About GMS 1.4 Installer
+Since YoYo Games removed the download links to GMS 1.4, Here is a Archive of the Installer
 https://archive.org/details/GMStudio1.4.x
 
 But there will be a GMS 1.4 Installer Archive in the Releases Tab
